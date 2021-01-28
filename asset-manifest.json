@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Madiacard/static/css/main.2e0cdc87.chunk.css",
+    "main.js": "/React-Madiacard/static/js/main.a4107a0e.chunk.js",
+    "main.js.map": "/React-Madiacard/static/js/main.a4107a0e.chunk.js.map",
+    "runtime-main.js": "/React-Madiacard/static/js/runtime-main.92b58179.js",
+    "runtime-main.js.map": "/React-Madiacard/static/js/runtime-main.92b58179.js.map",
+    "static/js/2.b06b0b26.chunk.js": "/React-Madiacard/static/js/2.b06b0b26.chunk.js",
+    "static/js/2.b06b0b26.chunk.js.map": "/React-Madiacard/static/js/2.b06b0b26.chunk.js.map",
+    "index.html": "/React-Madiacard/index.html",
+    "static/css/main.2e0cdc87.chunk.css.map": "/React-Madiacard/static/css/main.2e0cdc87.chunk.css.map",
+    "static/js/2.b06b0b26.chunk.js.LICENSE.txt": "/React-Madiacard/static/js/2.b06b0b26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b58179.js",
+    "static/js/2.b06b0b26.chunk.js",
+    "static/css/main.2e0cdc87.chunk.css",
+    "static/js/main.a4107a0e.chunk.js"
+  ]
+}
